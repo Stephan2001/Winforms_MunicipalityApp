@@ -1,7 +1,7 @@
 
 # Municipal Application
 
-This is a desktop application for managing municipal services.
+This is a desktop application for managing municipal services. If you want to use the photos api, please use your own api key :)
 
 Available at: [GitHub Repository](https://github.com/VCNMB/vcnmb-prog7312-2024-poe-Stephan2001.git)
 ---
